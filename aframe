@@ -1,0 +1,18 @@
+<html>
+  <head>
+    <script src="https://aframe.io/releases/1.1.0/aframe.min.js"></script>
+  </head>
+  <body>
+    <a-scene>
+      <a-box position="-0.633 1.008 -2.839" rotation="0.000 45.000 0.000" color="red"scale="0.283 1.604 0.175"></a-box>
+      <a-box position="-0.576 1.864 -2.974" rotation= "0.000 45.000 0.000" color="red" scale="1.167 0.147 0.283"></a-box>
+      <a-box position="0.677 1.012 -3.012" rotation="0.324 44.974 -0.273" scale="0.210 1.665 0.152"color="blue"></a-box> 
+     <a-box position="0.881 1.885 -2.842" rotation="0.324 44.974 -0.273" scale="0.253 0.212 0.670"color="blue"></a-box> 
+      <a-box position="1.054 0.993 -2.663" rotation="0.324 44.974 -0.273" scale="0.210 1.665 0.152"color="blue"></a-box> 
+      <a-box position="0.889 1.266 -2.834" rotation="0.324 44.974 -0.273" scale="0.254 0.212 0.410"color="blue"></a-box> 
+      <a-plane position="0 0 -4" rotation="-90 0 0" width="4" height="4" color="#7BC8A4"></a-plane>
+
+      <a-sky color="turquoise"></a-sky>
+    </a-scene>
+  </body>
+</html>
